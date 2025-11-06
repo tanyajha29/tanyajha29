@@ -47,8 +47,6 @@ A Creative Full-Stack Developer, Cyber Security Enthusiast, Creative UI/UX Desig
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" height="40" alt="Kali Linux logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
 </div>
 
@@ -58,9 +56,9 @@ A Creative Full-Stack Developer, Cyber Security Enthusiast, Creative UI/UX Desig
 
 | Project Name | Primary Focus | Link |
 | :--- | :--- | :--- |
-| **College Companion Website** | Full-Stack Engineering & **UX/UI Design** | <a href="https://github.com/tanyajha29/college-companion"><img src="https://png.pngtree.com/element_our/20190602/ourmid/pngtree-college-book-cartoon-illustration-image_1427171.jpg" height="30" alt="GitHub Repo Link" /></a> |
+| **College Companion Website** | Full-Stack Engineering & **UX/UI Design** | <a href="https://github.com/tanyajha29/college-companion"><img src="https://png.pngtree.com/png-vector/20230306/ourmid/pngtree-scool-college-logo-victor-vector-png-image_6634445.png" height="30" alt="GitHub Repo Link" /></a> |
 | **Heart Disease Predictor** | Machine Learning & **Creative Data Visualization** | <a href="https://github.com/tanyajha29/Heart_disease_Predictor"><img src="https://miro.medium.com/1*6WGnPZ5lkiT2QgK-JP1DFw.png" height="30" alt="GitHub Repo Link" /></a> |
-| **Credit Fraud Predictor** | Analytical Problem Solving & **Data Security** | <a href="https://github.com/tanyajha29/credit_fraud_dbt"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK5zFNBSPrqxrojV4qTTrvKNnJwRjqHp-5bA&s" height="30" alt="GitHub Repo Link" /></a> |
+| **Credit Fraud Predictor** | Analytical Problem Solving & **Data Security** | <a href="https://github.com/tanyajha29/credit_fraud_dbt"><img src="https://www.nicepng.com/png/detail/208-2082523_credit-card-icon-dark-credit-card-outline-with.png" height="30" alt="GitHub Repo Link" /></a> |
 
 ---
 
