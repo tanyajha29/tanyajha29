@@ -5,7 +5,7 @@
 <h1 align="center">Hey there! I'm Tanya👋</h1>
 
 <h3 align="center">
-  A **Creative** Full-Stack Developer, ** Cyber Security Enthusiastic** and **Creative UI/UX Designer**.
+  A Creative Full-Stack Developer, Cyber Security Enthusiastic and Creative UI/UX Designer.
 </h3>
 
 <div align="center">
@@ -50,9 +50,9 @@
 
 | Project Name | Primary Focus | Link |
 | :--- | :--- | :--- |
-| **College Companion Website** | Full-Stack Engineering & **UX/UI Design** | [![Repo Link](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)]([[LINK TO COLLEGE COMPANION REPO]](https://github.com/tanyajha29/college-companion)) |
+| **College Companion Website** | Full-Stack Engineering & **UX/UI Design** |([[LINK TO COLLEGE COMPANION REPO]](https://github.com/tanyajha29/college-companion)) |
 | **Heart Disease Predictor** | Machine Learning & **Creative Data Visualization** | ([[LINK TO HEART DISEASE PREDICTOR REPO]](https://github.com/tanyajha29/Heart_disease_Predictor)) |
-| **Credit Fraud Predictor** | Analytical Problem Solving & **Data Security** | [![Repo Link](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)]([[LINK TO CREDIT FRAUD PREDICTOR REPO]](https://github.com/tanyajha29/credit_fraud_dbt)) |
+| **Credit Fraud Predictor** | Analytical Problem Solving & **Data Security** | ([[LINK TO CREDIT FRAUD PREDICTOR REPO]](https://github.com/tanyajha29/credit_fraud_dbt)) |
 
 ---
 
