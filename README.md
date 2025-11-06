@@ -59,8 +59,8 @@
 <h3 align="left">🔥 My Activity & Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=dark&hide_border=false&border_radius=5&order=3" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=[YOUR-GITHUB-USERNAME]&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanyajha&show_icons=true&theme=dark&hide_border=false&border_radius=5&order=3" height="170" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=tanyajha29&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="170" alt="GitHub Streak" />
 </div>
 
 ---
