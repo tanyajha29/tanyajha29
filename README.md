@@ -1,52 +1,82 @@
-# Hi there! I'mTanya 👋
-
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNlC1sU07x95b0I2W/giphy.gif" width="60" alt="Waving hand GIF" />
+  <img height="160" src="https://media.giphy.com/media/Q8OPrlvsspeak/giphy.gif" alt="Coding GIF" />
 </div>
 
-> **Enthusiastic** Full-Stack Developer | **Creative** UX/UI Designer | **Detail-Oriented** Security Advocate
+<h1 align="center">Hey there! I'm [Your Name] 👋</h1>
 
-I thrive at the intersection of functionality, design, and security. My mission is to build digital experiences that are not only **beautiful** and **intuitive** but also **robust** and **secure** from the ground up.
-
----
-
-## 🛠️ My Professional Toolkit
-
-I believe in using the right tool for the job. Here are the core technologies I work with:
-
-| Category | Technologies |
-| :--- | :--- |
-| **Front-End & UX** | `React` • `Vue.js` • `Sass` • `Figma` • `Adobe XD` |
-| **Back-End & Data** | `Node.js (Express)` • `Python (Django/Flask)` • `PostgreSQL` • `MongoDB` |
-| **Security & Devops** | `Linux` • `Docker` • `OWASP Top 10` • `Git/GitHub` |
-
----
-
-## ✨ Featured Creative & Secure Projects
-
-These projects best represent my ability to combine **creative design**, **full-stack engineering**, and a **detail-oriented security mindset**.
-
-| Project Name | Description | Key Skills Showcased | Link |
-| :--- | :--- | :--- | :--- |
-| **College Companion Website** | A comprehensive full-stack platform simplifying student tasks (schedules, notices, etc.). Designed with **intuitive user flow** and a focus on secure data management. | Full-Stack Development (MERN/PERN/etc.), **UX/UI Design**, Scalable Architecture | [![Repo Link](https://img.shields.io/badge/GitHub-View%20Repo-100000?style=flat-square&logo=github)]([[LINK TO COLLEGE COMPANION REPO]](https://github.com/tanyajha29/college-companion)) |
-| **Heart Disease Predictor** | A Machine Learning model and front-end interface built to predict cardiac risk. Emphasizes **model explainability** and clear data visualization for users. | **Data Analysis/ML**, Python/R, **Creative Data Visualization** (UI) | [![Repo Link](https://img.shields.io/badge/GitHub-View%20Repo-100000?style=flat-square&logo=github)]([[LINK TO HEART DISEASE PREDICTOR REPO]](https://github.com/tanyajha29/Heart_disease_Predictor)) |
-| **Credit Fraud Predictor** | An analytical solution utilizing deep learning to identify and flag fraudulent transactions in real-time. Designed with **robust data pipeline security** and model governance. | **Cybersecurity Practices**, Python Scripting, **Analytical Problem Solving** | [![Repo Link](https://img.shields.io/badge/GitHub-View%20Repo-100000?style=flat-square&logo=github)]([[LINK TO CREDIT FRAUD PREDICTOR REPO]](https://github.com/tanyajha29/credit_fraud_dbt)) |
-
----
-
-## 🚀 Let's Connect & Collaborate!
-
-I'm currently seeking [JOB/FREELANCE/COLLABORATION opportunity] and always open to discussing new ideas, especially those focused on enhancing the developer experience or digital security.
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)]([YOUR LINKEDIN URL])
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=vercel)]([YOUR PERSONAL WEBSITE URL])
-[![Email Badge](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:[YOUR EMAIL ADDRESS])
-
----
-
-### My GitHub Stats
+<h3 align="center">
+  A **Creative** Full-Stack Engineer, **Detail-Oriented** Security Advocate, and **Enthusiastic** UX Designer.
+</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=nord&hide_border=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-GITHUB-USERNAME]&theme=nord&hide_border=true" alt="GitHub Streak" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=[YOUR-GITHUB-USERNAME].[YOUR-GITHUB-USERNAME]&" alt="Visitor Count" />
+</div>
+
+---
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+<p align="left">I'm a multidisciplinary developer focused on building secure, scalable, and beautifully designed applications.<br><br>
+- 🔭 **I’m currently building:** High-performance, secure cloud applications using modern full-stack frameworks.<br>
+- 📚 **I'm currently deepening my knowledge in:** Advanced penetration testing techniques and system design for large-scale distributed systems.<br>
+- 💡 **My passion:** Designing intuitive interfaces that put the user first while maintaining a zero-trust security posture.<br>
+</p>
+
+---
+
+<h3 align="left">🛠 Core Toolkit (Languages & Frameworks)</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
+</div>
+
+---
+
+<h3 align="left">✨ Featured Projects</h3>
+
+| Project Name | Primary Focus | Link |
+| :--- | :--- | :--- |
+| **College Companion Website** | Full-Stack Engineering & **UX/UI Design** | [![Repo Link](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)]([LINK TO COLLEGE COMPANION REPO]) |
+| **Heart Disease Predictor** | Machine Learning & **Creative Data Visualization** | [![Repo Link](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)]([LINK TO HEART DISEASE PREDICTOR REPO]) |
+| **Credit Fraud Predictor** | Analytical Problem Solving & **Data Security** | [![Repo Link](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)]([LINK TO CREDIT FRAUD PREDICTOR REPO]) |
+
+---
+
+<h3 align="left">🔥 My Activity & Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=dark&hide_border=false&border_radius=5&order=3" height="170" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=[YOUR-GITHUB-USERNAME]&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="170" alt="GitHub Streak" />
+</div>
+
+---
+
+<h3 align="left">🤝 Let's Connect</h3>
+
+<div align="left">
+  <a href="[YOUR LINKEDIN URL]">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+  </a>
+  <img width="10" />
+  <a href="[YOUR PERSONAL WEBSITE URL]">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=vercel" height="30" alt="Portfolio logo" />
+  </a>
+  <img width="10" />
+  <a href="mailto:[YOUR EMAIL ADDRESS]">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" height="30" alt="Email logo" />
+  </a>
 </div>
