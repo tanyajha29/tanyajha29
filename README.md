@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="160" src="https://media.giphy.com/media/Q8OPrlvsspeak/giphy.gif" alt="Coding GIF" />
+  <img height="160" src="[https://media.giphy.com/media/Q8OPrlvsspeak/giphy.gif](https://static.vecteezy.com/system/resources/thumbnails/060/762/422/small/a-female-programmer-concentrating-on-lines-of-code-displayed-on-a-computer-monitor-png.png)" alt="Coding GIF" />
 </div>
 
 <h1 align="center">Hey there! I'm Tanya👋</h1>
@@ -68,7 +68,7 @@
 <h3 align="left">🤝 Let's Connect</h3>
 
 <div align="left">
-  <a href="[[[YOUR LINKEDIN URL]](https://www.linkedin.com/in/tanya-jha-b2b72a2a0/)]">
+  <a href="(https://www.linkedin.com/in/tanya-jha-b2b72a2a0/)">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
   <img width="10" />
