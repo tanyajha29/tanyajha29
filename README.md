@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="160" src="[https://media.giphy.com/media/Q8OPrlvsspeak/giphy.gif](https://static.vecteezy.com/system/resources/thumbnails/060/762/422/small/a-female-programmer-concentrating-on-lines-of-code-displayed-on-a-computer-monitor-png.png)" alt="Coding GIF" />
+  <img height="160" src="https://static.vecteezy.com/system/resources/thumbnails/060/762/422/small/a-female-programmer-concentrating-on-lines-of-code-displayed-on-a-computer-monitor-png.png" alt="Coding GIF" />
 </div>
 
 <h1 align="center">Hey there! I'm Tanya👋</h1>
