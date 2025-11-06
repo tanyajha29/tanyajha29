@@ -51,7 +51,7 @@
 | Project Name | Primary Focus | Link |
 | :--- | :--- | :--- |
 | **College Companion Website** | Full-Stack Engineering & **UX/UI Design** | [![Repo Link](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)]([[LINK TO COLLEGE COMPANION REPO]](https://github.com/tanyajha29/college-companion)) |
-| **Heart Disease Predictor** | Machine Learning & **Creative Data Visualization** | [![Repo Link](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)]([[LINK TO HEART DISEASE PREDICTOR REPO]](https://github.com/tanyajha29/Heart_disease_Predictor)) |
+| **Heart Disease Predictor** | Machine Learning & **Creative Data Visualization** | ([[LINK TO HEART DISEASE PREDICTOR REPO]](https://github.com/tanyajha29/Heart_disease_Predictor)) |
 | **Credit Fraud Predictor** | Analytical Problem Solving & **Data Security** | [![Repo Link](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)]([[LINK TO CREDIT FRAUD PREDICTOR REPO]](https://github.com/tanyajha29/credit_fraud_dbt)) |
 
 ---
