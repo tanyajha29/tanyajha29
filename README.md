@@ -2,10 +2,10 @@
   <img height="160" src="https://media.giphy.com/media/Q8OPrlvsspeak/giphy.gif" alt="Coding GIF" />
 </div>
 
-<h1 align="center">Hey there! I'm [Your Name] 👋</h1>
+<h1 align="center">Hey there! I'm Tanya👋</h1>
 
 <h3 align="center">
-  A **Creative** Full-Stack Engineer, **Detail-Oriented** Security Advocate, and **Enthusiastic** UX Designer.
+  A **Creative** Full-Stack Developer, ** Cyber Security Enthusiastic** and **Creative UI/UX Designer**.
 </h3>
 
 <div align="center">
@@ -50,9 +50,9 @@
 
 | Project Name | Primary Focus | Link |
 | :--- | :--- | :--- |
-| **College Companion Website** | Full-Stack Engineering & **UX/UI Design** | [![Repo Link](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)]([LINK TO COLLEGE COMPANION REPO]) |
-| **Heart Disease Predictor** | Machine Learning & **Creative Data Visualization** | [![Repo Link](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)]([LINK TO HEART DISEASE PREDICTOR REPO]) |
-| **Credit Fraud Predictor** | Analytical Problem Solving & **Data Security** | [![Repo Link](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)]([LINK TO CREDIT FRAUD PREDICTOR REPO]) |
+| **College Companion Website** | Full-Stack Engineering & **UX/UI Design** | [![Repo Link](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)]([[LINK TO COLLEGE COMPANION REPO]](https://github.com/tanyajha29/college-companion)) |
+| **Heart Disease Predictor** | Machine Learning & **Creative Data Visualization** | [![Repo Link](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)]([[LINK TO HEART DISEASE PREDICTOR REPO]](https://github.com/tanyajha29/Heart_disease_Predictor)) |
+| **Credit Fraud Predictor** | Analytical Problem Solving & **Data Security** | [![Repo Link](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)]([[LINK TO CREDIT FRAUD PREDICTOR REPO]](https://github.com/tanyajha29/credit_fraud_dbt)) |
 
 ---
 
@@ -68,7 +68,7 @@
 <h3 align="left">🤝 Let's Connect</h3>
 
 <div align="left">
-  <a href="[YOUR LINKEDIN URL]">
+  <a href="[[YOUR LINKEDIN URL]](https://www.linkedin.com/in/tanya-jha-b2b72a2a0/)">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
   <img width="10" />
@@ -76,7 +76,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=vercel" height="30" alt="Portfolio logo" />
   </a>
   <img width="10" />
-  <a href="mailto:[YOUR EMAIL ADDRESS]">
+  <a href="mailto:jhatanya211@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" height="30" alt="Email logo" />
   </a>
 </div>
