@@ -45,22 +45,40 @@ I build secure, scalable, and user‑centric web applications with a strong focu
 
 ---
 
-<h3>✨ Featured Projects</h3>
+### 🧩 Tech Stack
 
-| Project | Focus Area | Repository |
-|------|-----------|-----------|
-| **College Companion Website** | Full‑Stack Development & UI/UX Design | <a href="https://github.com/tanyajha29/college-companion">View Repo</a> |
-| **Heart Disease Predictor** | Machine Learning & Data Visualization | <a href="https://github.com/tanyajha29/Heart_disease_Predictor">View Repo</a> |
-| **Credit Fraud Predictor** | Data Analysis & Security | <a href="https://github.com/tanyajha29/credit_fraud_dbt">View Repo</a> |
+**Frontend**
+- React + TypeScript (Vite)
+- Tailwind CSS (custom dark theme)
+- React Router
+- Axios
+- TanStack React Query
+- Zod + React Hook Form
 
----
+**Backend**
+- Node.js (LTS)
+- Express.js
+- PostgreSQL
+- Prisma ORM
+- JWT Authentication
+- Zod Validation
+- bcrypt, Helmet, Rate Limiting
 
-<h3>📊 GitHub Activity</h3>
+**AI & Services**
+- Ollama (Dockerized local LLMs)
+- AI-powered task breakdown & productivity insights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanyajha29&show_icons=true&theme=dark" height="170" />
-  <img src="https://streak-stats.demolab.com?user=tanyajha29&theme=dark" height="170" />
-</div>
+**DevOps & Tooling**
+- Docker & Docker Compose
+- GitHub Actions (CI)
+- ESLint & Prettier
+- Vitest / Jest
+- Postman
+
+**Deployment**
+- Frontend: Vercel
+- Backend: Render / Railway
+- Database: PostgreSQL (Docker / Managed)
 
 ---
 
