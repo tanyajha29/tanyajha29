@@ -9,7 +9,7 @@ Full‑Stack Developer • UI/UX Designer • Cybersecurity Enthusiast • ML En
 </h3>
 
 <p align="center">
-I build secure, scalable, and user‑centric web applications with a strong focus on performance, design quality, and system reliability.
+I build secure, scalable, and user‑centric applications with a strong focus on performance, clean architecture, and intuitive design.
 </p>
 
 <div align="center">
@@ -18,81 +18,110 @@ I build secure, scalable, and user‑centric web applications with a strong focu
 
 ---
 
-<h3>👩‍💻 About Me</h3>
-
-- 🔭 **Currently working on:** Full‑stack, cloud‑native applications with modern architectures  
-- 🧠 **Deepening expertise in:** System design, application security, and penetration testing  
-- 🎨 **Design philosophy:** Clean, intuitive UI backed by secure and scalable systems  
-- 🧩 **Mindset:** Problem‑solver who enjoys turning complex ideas into elegant solutions  
+## 👩‍💻 About Me
+- 🔭 Currently building **AI‑powered productivity & full‑stack web applications**
+- 🧠 Learning **system design, application security & penetration testing**
+- 🎨 Strong believer in **design‑first development**
+- 🧩 I enjoy solving complex problems and turning ideas into real products
 
 ---
 
-<h3>🛠️ Tech Stack</h3>
+## 🛠️ Tech Stack
 
+### 🔤 Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-1e415e?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</p>
+
+### 🌐 Web & Backend Development
+<p>
+  <img src="https://img.shields.io/badge/React-0b1c2d?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-1b5e20?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-d84924?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-0a4c8a?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8"/>
+</p>
+
+### 🤖 Data Science & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0f172a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-1e3a5f?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🎨 Design Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ---
 
-### 🧩 Tech Stack
+## 🚀 Featured Projects
 
-**Frontend**
-- React + TypeScript (Vite)
-- Tailwind CSS (custom dark theme)
-- React Router
-- Axios
-- TanStack React Query
-- Zod + React Hook Form
+### 🧠 MindBreak AI (Productivity App)
+- AI‑powered task breakdown & smart scheduling
+- Secure JWT‑based authentication
+- Ollama‑powered local LLM integration  
+**Tech:** React, TypeScript, Tailwind, Express, PostgreSQL, Prisma, Docker
 
-**Backend**
-- Node.js (LTS)
-- Express.js
-- PostgreSQL
-- Prisma ORM
-- JWT Authentication
-- Zod Validation
-- bcrypt, Helmet, Rate Limiting
+### 🎓 College Companion
+- Full‑stack student utility platform
+- Focused on UX/UI & usability  
+**Tech:** React, Node.js, PostgreSQL
 
-**AI & Services**
-- Ollama (Dockerized local LLMs)
-- AI-powered task breakdown & productivity insights
-
-**DevOps & Tooling**
-- Docker & Docker Compose
-- GitHub Actions (CI)
-- ESLint & Prettier
-- Vitest / Jest
-- Postman
-
-**Deployment**
-- Frontend: Vercel
-- Backend: Render / Railway
-- Database: PostgreSQL (Docker / Managed)
+### ❤️ Heart Disease Predictor
+- ML‑based prediction with visual insights  
+**Tech:** Python, Scikit‑Learn, Pandas, Matplotlib
 
 ---
 
-<h3>🤝 Connect With Me</h3>
+## 🧭 Development Roadmap
 
+### Phase 1 — Strong Foundations ✅
+- Advanced JavaScript & React
+- REST APIs with Express
+- Database design with PostgreSQL
+
+### Phase 2 — Full‑Stack & AI 🔄
+- AI‑powered applications
+- Secure authentication & authorization
+- Clean architecture & scalability
+
+### Phase 3 — Systems & Security 🚧
+- System design fundamentals
+- Application security & penetration testing
+- Dockerized production environments
+
+### Phase 4 — Expertise 🌱
+- Distributed systems basics
+- Performance optimization
+- Open‑source contributions
+
+---
+
+## 🤝 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/tanya-jha-b2b72a2a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://tanyajha-web.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-6366f1?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-Website-6366f1?style=for-the-badge&logo=vercel"/>
   </a>
   <a href="mailto:jhatanya211@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
